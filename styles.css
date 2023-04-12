@@ -176,6 +176,7 @@ button, p {
     transform: translate(-50%, 0);
     bottom: 35px;
     color: rgba(255, 255, 255, 0.7);
+    z-index: 4;
 }
 
 /* ==== ITEM SCREEN STYLES ==== */
